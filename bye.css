@@ -1,0 +1,33 @@
+body {
+
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    border-style: solid;
+    border-color: black;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h3 {}
+
+h4 {}
+
+h5 {}
+
+p {}
+
+#pp {
+    background: linear-gradient(#418a76 0%, #401919 100%);
+}
+
+#op {
+    background: linear-gradient(#6f9490 0%, #ae68d9 100%);
+}
+.menu { list-style: none; font-family: sans-serif; position:absolute; top:10px; right: 30px; z-index: 10; cursor: pointer; }
+.links { float: left; color: #fff; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family:fantasy; font-size: 20px } .links:hover { background-color:dodgerblue; }
